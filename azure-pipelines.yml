@@ -2,7 +2,8 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-22.04'
+  name: MSI
+  #vmImage: 'ubuntu-22.04'
 
 variables:
   buildConfiguration: 'Release'
