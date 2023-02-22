@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: MSI
+  name: Default
   #vmImage: 'ubuntu-22.04'
 
 variables:
